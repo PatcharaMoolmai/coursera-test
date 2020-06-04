@@ -1,0 +1,20 @@
+/* .font{
+    font-family: ;
+} */
+.header{
+    text-align: center;
+    font-size: 50px;
+}
+.wrapper{
+ padding: 5px;
+ background-color: lightgray;   
+ border-radius: 15px;
+ border: 10px solid white;
+}
+.headline{
+    position: relative;
+    padding-left: 10px;
+    left: 75%;
+    background-color: lightcoral;
+    width: 29.5%;
+}
